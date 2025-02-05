@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\timer_ms.hex'
+elf = 'build\timer_ms.elf'
